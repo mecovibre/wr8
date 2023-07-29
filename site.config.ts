@@ -26,9 +26,9 @@ export default siteConfig({
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: 'notion://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F37394226-be88-4af4-a0fd-cee3499d8697%2FCheck-box-icon.svg?table=block&id=c2164772-d31f-4607-9e9b-e72e1731ad3e&spaceId=d45fb170-b0a2-43cd-92f4-f9b616f901c5&userId=79fab851-b577-4c7b-8782-e601a75159e9&cache=v2',
-  defaultPageCover: 'https://wr8.in/page-cover.jpg',
-  defaultPageCoverPosition: 1,
+  defaultPageIcon: '#',
+  defaultPageCover: '#',
+  defaultPageCoverPosition: 0.5,
 
   // whether or not to enable support for LQIP preview images (optional)
   isPreviewImageSupportEnabled: true,
