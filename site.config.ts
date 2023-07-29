@@ -9,18 +9,18 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'wr8 Demo',
-  domain: 'demo.wr8.in',
-  author: 'Verfasor',
-  seotitle: 'Demo Site Created with wr8',
+  name: 'MECO on the Rock',
+  domain: 'mecovibre.vercel.app',
+  author: 'MECO',
+  seotitle: '사는 이야기, 소비생활, 웹소설, 성소수자 인권, 기타 취미',
 
   // open graph metadata (optional)
-  description: 'This is a demo website created with wr8.',
+  description: 'MECO on the Rock - 특별한 건 딱히 없음.',
 
   // social usernames (optional)
-  twitter: 'verfasor',
-  github: 'verfasor',
-  linkedin: 'verfasor',
+  twitter: 'meco_vibre',
+  // github: 'verfasor',
+  // linkedin: 'verfasor',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
@@ -50,7 +50,7 @@ export default siteConfig({
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages
-  navigationStyle: 'custom',
+  navigationStyle: 'default',
   navigationLinks: [   
     {
       title: 'Blog',
