@@ -12,23 +12,23 @@ export default siteConfig({
   name: 'MECO on the Rock',
   domain: 'mecovibre.vercel.app',
   author: 'MECO',
-  seotitle: '사는 이야기, 소비생활, 웹소설, 성소수자 인권, 기타 취미',
+  seotitle: 'MECO on the Rock',
 
   // open graph metadata (optional)
-  description: 'MECO on the Rock - 특별한 건 딱히 없음.',
+  description: 'MECO on the Rock',
 
   // social usernames (optional)
   twitter: 'meco_vibre',
   // github: 'verfasor',
   // linkedin: 'verfasor',
-  // newsletter: '#', // optional newsletter URL
+  newsletter: 'https://www.dawoom-t4c.org/dadadat', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: 'https://wr8.in/page-icon.png',
+  defaultPageIcon: 'notion://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F37394226-be88-4af4-a0fd-cee3499d8697%2FCheck-box-icon.svg?table=block&id=c2164772-d31f-4607-9e9b-e72e1731ad3e&spaceId=d45fb170-b0a2-43cd-92f4-f9b616f901c5&userId=79fab851-b577-4c7b-8782-e601a75159e9&cache=v2',
   defaultPageCover: 'https://wr8.in/page-cover.jpg',
-  defaultPageCoverPosition: 0.5,
+  defaultPageCoverPosition: 1,
 
   // whether or not to enable support for LQIP preview images (optional)
   isPreviewImageSupportEnabled: true,
@@ -50,7 +50,7 @@ export default siteConfig({
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages
-  navigationStyle: 'default',
+  navigationStyle: 'custom',
   navigationLinks: [   
     {
       title: 'Blog',
