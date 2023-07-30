@@ -136,6 +136,10 @@ font-size: 0.9em;
   opacity: .5;
 } 
 
+.dark-mode .notion {
+  background: #141517;
+}
+
 .dark-mode .notion-header .notion-nav-header {
   background: #141517;
 }
