@@ -143,6 +143,7 @@ font-size: 0.9em;
 
 .dark-mode .notion-header .notion-nav-header {
   background: #141517;
+  font-size: 1.2em;
 }
 
 .dark-mode .notion-collection-row {
