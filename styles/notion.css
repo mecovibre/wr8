@@ -137,7 +137,7 @@ font-size: 0.9em;
 } 
 
 .dark-mode .notion-header .notion-nav-header {
-  background: #2f3437;
+  background: #141517;
 }
 
 .dark-mode .notion-collection-row {
@@ -179,7 +179,7 @@ font-size: 0.9em;
 @media (max-width: 767px) {
 
 .dark-mode .notion-header {
-  background: #2F3437 !important;
+  background: #141517 !important;
   box-shadow: none !important;
 }
 
@@ -229,7 +229,7 @@ font-size: 0.9em;
 }
 
 .notion-page {
-  padding-bottom: calc(max(5vh, 32px)) !important;
+  padding-bottom: calc(max(3vh, 20px)) !important;
   line-height: 1.65;
 }
 
@@ -350,7 +350,7 @@ font-size: 0.9em;
 }
 
 .notion-hr {
-  margin: 1.5em 0;
+  margin: 2em 0;
 }
 
 @media only screen and (max-width: 920px) {
