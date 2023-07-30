@@ -235,7 +235,7 @@ font-size: 0.9em;
 
 .notion-page {
   padding-bottom: calc(max(5vh, 32px)) !important;
-  margin-bottom: -0.75rem;
+  margin-bottom: -0.7rem;
   line-height: 1.65;
 }
 
@@ -245,7 +245,7 @@ font-size: 0.9em;
 
 .notion-text {
   padding: 0.5em 2px;
-  margin-bottom: -0.95rem;
+  margin-bottom: -0.9rem;
 }
 
 .notion-asset-caption {
