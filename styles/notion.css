@@ -116,8 +116,7 @@ font-size: 0.9em;
 .notion {
   --notion-max-width: 620px;
   --notion-header-height: 54px;
-  font-size: 1.14rem;
-  margin-bottom: -0.5rem;
+  font-size: 1.135rem;
   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Apple Color Emoji,Arial,sans-serif,Segoe UI Emoji,Segoe UI Symbol;
 }
 
@@ -143,7 +142,7 @@ font-size: 0.9em;
 
 .dark-mode .notion-header .notion-nav-header {
   background: #141517;
-  font-size: 1.15rem;
+  font-size: 1.13rem;
 }
 
 .dark-mode .notion-collection-row {
@@ -245,6 +244,7 @@ font-size: 0.9em;
 
 .notion-text {
   padding: 0.5em 2px;
+  margin-bottom: 0.3rem;
 }
 
 .notion-asset-caption {
