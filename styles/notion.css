@@ -246,6 +246,7 @@ font-size: 0.9em;
 .notion-text {
   padding: 0.5em 2px;
   margin-bottom: -0.9rem;
+  font-size: 1rem;
 }
 
 .notion-asset-caption {
