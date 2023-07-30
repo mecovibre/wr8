@@ -62,20 +62,6 @@ export const PageHead: React.FC<
         href={rssFeedUrl}
         title={site?.name}
       />
-
-      <link 
-        rel="preconnect"
-        href="https://fonts.googleapis.com"
-      />
-      <link
-        rel="preconnect"
-        href="https://fonts.gstatic.com"
-        crossorigin
-      />
-      <link
-        href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR&display=swap"
-        rel="stylesheet"
-      />
   
       <meta property='og:title' content={title} />
       <meta name='twitter:title' content={title} />
